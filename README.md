@@ -1,1 +1,1 @@
-Java-MySQL-Project
+University Bus Management System is a Java-based application that uses JDBC to interact with a MySQL database. It enables efficient management of university bus operations, including route tracking, schedule management, seat allocation, and student data handling. Designed for educational purposes, this project demonstrates the integration of Java, JDBC, and MySQL in a real-world scenario.
